@@ -1,0 +1,202 @@
+body {
+    font-family: 'Open Sans';
+	font-size: 12px;
+}
+.QuestionsPrompt {
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 60px;
+}
+.preamble {
+	margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 60px;
+}
+.alignright {
+	float: right;
+	padding-right: 60px;
+}
+
+.alignrightlogo {
+	float: right;
+	padding-right: 36px;
+}
+
+.title {
+	color: red;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 60px;
+	font-size: 20px;
+}
+.Header {
+	background-color: lightgrey;
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+	color: grey;
+}
+
+.floating-box-question {
+    display: inline-block;
+    color: black;
+	font-weight: normal;
+	max-width: 700px;
+    height: 10px;
+    margin: 10px;
+	vertical-align: text-bottom;
+}
+
+.floating-box-question-number {
+    display: inline-block;
+	font-weight: bold;
+	color: red;
+	width: 25px;
+    height: 10px;
+    margin: 10px;
+	margin-left: 60px;
+}
+
+.inARow {
+	display: inline-block;
+	
+    
+
+}
+.floating-box-question-part {
+    display: inline-block;
+    width: 300px;
+    height: 10px;
+    margin: 10px;
+	margin-left: 0px;
+    color: black;
+	font-weight: normal;
+	vertical-align: text-bottom;
+	
+}
+
+.new-line-question-part {
+    width: 300px;
+    height: 10px;
+    margin: 10px;
+	margin-left: 0px;
+    color: black;
+	font-weight: normal;
+	vertical-align: text-bottom;
+	
+}
+
+.floating-box-question-letter-part {
+    display: inline-block;
+    width: 15px;
+    margin: 20px;
+	margin-left: 107px;
+	height: 5px;
+	font-weight: bold;
+	color: red;
+}
+
+.floating-box-question-part-1-column {
+    display: inline-block;
+    width: 600px;
+    height: 10px;
+    margin: 10px;
+	margin-left: 0px;
+    color: black;
+	font-weight: normal;
+	vertical-align: text-bottom;
+	
+}
+
+
+.after-box {
+}
+
+.info-box {
+	border-style: solid;
+    border-width: 1px;
+	background-color: lightgray;
+	margin: 60px;
+	}
+.info-box-heading {
+	text-align: center;
+}
+
+.info-box-text {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.info-box-inner {
+	border-style: solid;
+    border-width: 1px;
+	background-color: white;
+	margin-left: 240px;
+	margin-right: 240px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	}
+	
+table, td, th {
+    border: 1px solid black;
+	text-align: center;
+	align: center;
+	padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+	align: center;
+	padding:60px;
+}
+
+th {
+    text-align: center;
+}
+
+.tableContainer {
+
+	margin-left: 120px;
+	margin-top: 15px;
+
+
+}
+
+.image {
+padding: 10px;
+}
+.extra-padding {
+padding-top: 1px;
+}
+
+@media screen and (max-width: 900px) {
+    .extra-padding {
+        padding-top: 120px;
+    }
+}
+
+    .extra-padding2 {
+        padding-top: 120px;
+    }
+	    .extra-padding3 {
+        padding-bottom: 25px;
+    }
+	
+	.mathsinline {
+	margin-top: 30px;
+	margin-left: 180px;
+	}
+
+.Footer {
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+	color: grey;
+}
